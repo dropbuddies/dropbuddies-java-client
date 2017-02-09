@@ -1,0 +1,50 @@
+
+# Order
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**uniqueId** | **String** |  |  [optional]
+**pickupAddress** | **String** |  |  [optional]
+**dropoffAddress** | **String** |  |  [optional]
+**pickupLocation** | [**Location**](Location.md) |  |  [optional]
+**dropoffLocation** | [**Location**](Location.md) |  |  [optional]
+**itemType** | **String** |  |  [optional]
+**description** | **String** |  |  [optional]
+**sizeFit** | **String** |  |  [optional]
+**requestType** | **String** |  |  [optional]
+**deliveryType** | **String** |  |  [optional]
+**ownerid** | **String** |  |  [optional]
+**ownerType** | **String** |  |  [optional]
+**pickupName** | **String** |  |  [optional]
+**pickupPhonenumber** | **String** |  |  [optional]
+**pickupEmail** | **String** |  |  [optional]
+**recipientName** | **String** |  |  [optional]
+**recipientPhonenumber** | **String** |  |  [optional]
+**recipientEmail** | **String** |  |  [optional]
+**source** | **String** |  |  [optional]
+**paymentStatus** | **String** |  |  [optional]
+**deliveryStatus** | **String** |  |  [optional]
+**status** | **String** |  |  [optional]
+**userDeliveryStatus** | **String** |  |  [optional]
+**ratingMessage** | **String** |  |  [optional]
+**dropbuddyId** | **String** |  |  [optional]
+**promoCode** | **String** |  |  [optional]
+**valueOfItem** | **Double** |  |  [optional]
+**rating** | **Integer** |  |  [optional]
+**dropoffTime** | **Long** |  |  [optional]
+**pickupTime** | **Long** |  |  [optional]
+**pickupLongitude** | **Double** |  |  [optional]
+**pickupLatitude** | **Double** |  |  [optional]
+**id** | **Long** |  |  [optional]
+**createdOn** | **Long** |  |  [optional]
+**updatedOn** | **Long** |  |  [optional]
+**acceptedOn** | **Long** |  |  [optional]
+**selectDropBuddy** | **Integer** |  |  [optional]
+**allowPriceSuggestion** | **Integer** |  |  [optional]
+**cancelledOn** | **Long** |  |  [optional]
+**quantity** | **Integer** |  |  [optional]
+**suggestedPrice** | **Double** |  |  [optional]
+
+
+
